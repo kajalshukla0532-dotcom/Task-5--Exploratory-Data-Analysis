@@ -2,10 +2,10 @@
 The Exploratory Data Analysis (EDA) on the Titanic dataset, as documented in the provided Jupyter Notebook output, led to the following key findings:
 
 Passenger Demographics and Distribution-
-The majority of the passengers were between 20 and 40 years old.This was visually confirmed by the distribution of the 'Age' column[cite: 115, 122].
+The majority of the passengers were between 20 and 40 years old.This was visually confirmed by the distribution of the 'Age' column.
 
 Overall Survival Rate-
-The overall survival rate for passengers was below 40%, indicating that the majority of passengers did not survive the disaster[cite: 232].
+The overall survival rate for passengers was below 40%, indicating that the majority of passengers did not survive the disaster.
 
 Key Factors Impacting Survival (Bivariate Analysis)-
 The analysis identified two major factors significantly influencing a passenger's chance of survival:
